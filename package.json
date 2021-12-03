@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/kurage0721/udemyTypeScript/issues"
   },
-  "homepage": "https://github.com/kurage0721/udemyTypeScript#readme"
+  "homepage": "https://github.com/kurage0721/udemyTypeScript#readme",
+  "devDependencies": {
+    "typescript": "^4.5.2"
+  }
 }
