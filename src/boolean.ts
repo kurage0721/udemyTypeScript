@@ -12,7 +12,7 @@ let isFinished: boolean = true;
 isFinished = false;
 
 //以下の代入はnum型なのでエラーになる
-// isFinished = 1;
+//isFinished = 1;
 
 //ログに出力
 console.log( { isFinished } );
