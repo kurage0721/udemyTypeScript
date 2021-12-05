@@ -35,5 +35,5 @@ console.log(nijigenHairetsu[0][0]);
 console.log(nijigenHairetsu[1]);
 
 
-//複数の型を持つ配列の宣言
+//複数の型を持つ配列の宣言(ユニオンタイプス)
 let hairetsu: (string | number | boolean)[] = [1, false, "japan"];
