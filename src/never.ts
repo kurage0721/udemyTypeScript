@@ -2,6 +2,8 @@ export {};
 
 //エラーを発生させる関数 throw → 例外を発生させる
 //エラーが必ず発生する(例外を発生させる)ので、明示的に何も返さない
+
+//例外を実行させる関数 never型の指定
 function error(message: string): never {
   //例外を発生させる(スローさせる)処理
   throw new Error(message);
