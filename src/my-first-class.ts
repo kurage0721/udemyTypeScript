@@ -2,6 +2,7 @@ export {};
 
 //クラス
 class Person {
+  //メンバー変数の宣言
   //最初にアノテーションしておく
   name: string;
   age: number;
@@ -21,7 +22,7 @@ class Person {
   }
 }
 
-//インスタンス
+//インスタンス宣言
 let taro = new Person('Taro', 30);
 let hanako = new Person('Hanako', 20);
 
