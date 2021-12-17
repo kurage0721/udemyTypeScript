@@ -22,6 +22,7 @@ namespace Japanese {
       constructor(public name: string) {}
     }
   }
+  //同盟クラスを別の名前空間で宣言
   export namespace Osaka {
     export class Person {
       constructor(public name: string) {}
