@@ -15,4 +15,4 @@ isFinished = false;
 //isFinished = 1;
 
 //ログに出力
-console.log( { isFinished } );
+console.log({ isFinished });
